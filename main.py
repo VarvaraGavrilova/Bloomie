@@ -5,7 +5,7 @@
 
 
 # Impordime funktsioonid teistest failidest
-from ülesanded import lisa_aine, lisa_ülesanne, vaata_ülesandeid, märgi_tehtuks
+from tasks import lisa_aine, lisa_ülesanne, vaata_ülesandeid, märgi_tehtuks
 from aed import vaata_aeda
 
 
