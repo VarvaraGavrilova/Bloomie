@@ -1,4 +1,4 @@
-def lisa_aine():
+def lisa_aine(ained):
     # Lisab uue õppeaine
     
     nimi = input('Sisesta õppeaine nimi: ').strip() # küsib kasutajalt õppeaine nimi
