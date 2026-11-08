@@ -12,3 +12,5 @@ from tkinter import messagebox
 def laadi_andmed():
     if not ANDMEFAIL.exists():
         return []
+    
+    ya v shoke s etogo vsego, tbh.
