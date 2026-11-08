@@ -1,0 +1,9 @@
+# Pythoni ajutised failid
+__pycache__/
+*.pyc
+
+# Virtuaalsed keskkonnad
+.venv/
+
+# Kasutaja salvestatud andmed
+bloomie_data.json
