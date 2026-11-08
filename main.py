@@ -1,16 +1,8 @@
-"""Bloomie - virtuaalne õppeaed, mis kasvab ülesannete täitmisel.
+# Bloomie on virtuaalne õppeaed, kus kasutaja saab lisada õppeaineid ja ülesandeid.
+# Ülesannete täitmisel kasvavad virtuaalsed lilled.
 
-Autorid: Varvara Gavrilova ja Elmira Rafiyeva
-Allikad: Pythoni dokumentatsioon (tkinter, json, pathlib).
-"""
+# Autorid: Varvara Gavrilova ja Elmira Rafiyeva
 
-import json
-import tkinter as tk
-from pathlib import Path
-from tkinter import messagebox
 
-def laadi_andmed():
-    if not ANDMEFAIL.exists():
-        return []
-    
-    ya v shoke s etogo vsego, tbh.
+
+
