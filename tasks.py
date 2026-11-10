@@ -20,6 +20,7 @@ def lisa_ülesanne(ained):
     
     if aine not in ained:
         print("Sellist õppeainet ei ole.")
+        return
         
     else:
         nimi = input("Sisesta ülesanne: ").strip()
@@ -74,7 +75,7 @@ def märgi_tehtuks(ained):
         return
     
     for i, ülesanne in enumerate(ained[aine], 1):
-        print(f"{i}. {ülesanne["nimi"]}")
+        print(f"{i}. {ülesanne['nimi']}")
         
     try:
         number = int(input("Sisesta ülesande number: "))
