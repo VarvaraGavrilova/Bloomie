@@ -1,6 +1,13 @@
 # Bloomie on virtuaalne õppeaed, kus kasutaja saab lisada õppeaineid ja ülesandeid.
 # Ülesannete täitmisel kasvavad virtuaalsed lilled.
 
+# Programmi käivitamine:
+# 1. Laadi projekt GitHubist alla.
+# 2. Ava fail main.py Thonnys.
+# 3. Käivita programm (F5).
+# 4. Vali menüüst sobiv tegevus ja järgi juhiseid.
+# Programmi kasutamiseks peavad failid main.py, tasks.py ja aed.py olema samas kaustas.
+
 # Autorid: Varvara Gavrilova ja Elmira Rafiyeva
 
 
